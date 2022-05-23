@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522298878453",
+    "project_id": "airplane-b5bed",
+    "storage_bucket": "airplane-b5bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522298878453:android:8bfe7dfe80a52abfa958bc",
+        "android_client_info": {
+          "package_name": "tgs.app.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522298878453-7sbaao87g83lkglu75j0rhtmqt1hn79i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9CyrDK7lv_6J23AUAsm4EdHkqEnBL63E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522298878453-7sbaao87g83lkglu75j0rhtmqt1hn79i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
